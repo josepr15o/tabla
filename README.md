@@ -1,5 +1,13 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+<h1>PRECIOS DE FRUTA</h1>
+<table>
+  <tr>
+    <th>Fruta</th>
+    <th>Precio</th>
+    <th>Valor en el mercado</th>
+    <th>Valor en pesos</th>
+  </tr>
+  <tr>
+    <td>Fruta Dragon</td>
+    <td>15.000.000</td>
+    <td>3.000.000.000</td>
+    <td>299.000</td>
