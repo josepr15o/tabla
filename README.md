@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>BLOX FRUITS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 <h1>PRECIOS DE FRUTA</h1>
 <table>
   <tr>
@@ -64,3 +72,5 @@
       <td>Repetir</td>
     </tr>
   </table>
+</body>
+</html>
